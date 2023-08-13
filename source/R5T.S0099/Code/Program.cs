@@ -7,7 +7,7 @@ namespace R5T.S0099
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Demonstrations.Instance.AdjustSolutionName_ForPrivacy();
         }
     }
 }
